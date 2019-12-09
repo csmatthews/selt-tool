@@ -1,8 +1,8 @@
 # SELT Tool
 
-This two-part tool analyzes parcels fpr cpmservatopm sustainability according to SELT's specific criteria. As it is for a client, the data to run the tool cannot be provided. However, the code can be viewed.
+This two-part tool analyzes GIS parcels for conservation sustainability according to SELT's specific criteria. As it is for a client, the data to run the tool cannot be provided. However, the code can be viewed.
 
-## Download
+## Download and View
 
 * Download [SELTPropToolv2_0_7.py](SELTPropToolv2_0_7.py) and place the file in a desired location
 * Download [GeodatabaseCleanupToolv2_0_0.py](GeodatabaseCleanupToolv2_0_0.py) and place the file in a desired location
