@@ -4,8 +4,8 @@ This two-part tool analyzes parcels fpr cpmservatopm sustainability according to
 
 ## Download
 
-*Download [SELTPropToolv2_0_7.py](SELTPropToolv2_0_7.py) and place the file in a desired location
-*Download [GeodatabaseCleanupToolv2_0_0.py](GeodatabaseCleanupToolv2_0_0.py) and place the file in a desired location
+* Download [SELTPropToolv2_0_7.py](SELTPropToolv2_0_7.py) and place the file in a desired location
+* Download [GeodatabaseCleanupToolv2_0_0.py](GeodatabaseCleanupToolv2_0_0.py) and place the file in a desired location
 
 
 ## Author
